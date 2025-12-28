@@ -8,8 +8,7 @@ Tools and Technologies: - <br>
 1. Canva <br>
 2. Microsoft VS Code <br> 
 3. Git and GitHub <br>
-
 Programming Languages: - <br>
-1. C++
+1. C++ <br>
 
 </h6>
