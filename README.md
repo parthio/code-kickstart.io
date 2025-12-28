@@ -4,11 +4,12 @@
 
 <h1> <b> Skills </b> </h1>
 <h6>
-Tools and Technologies: - <br>
+<h3>Tools and Technologies: - </h3> <br> 
 1. Canva <br>
 2. Microsoft VS Code <br> 
 3. Git and GitHub <br>
-Programming Languages: - <br>
+
+<h3>Programming Languages: - </h3> <br>
 1. C++ <br>
 
 </h6>
