@@ -12,7 +12,4 @@
 <h3>Programming Languages: - </h3>
 1. C++ <br>
 
-<h3>Certificates: - </h3>
-
-
 </h6>
